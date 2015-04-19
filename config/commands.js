@@ -1253,15 +1253,32 @@ var commands = exports.commands = {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
 			"<b>~ Administrators</b><br />" +
-			"- Anrin Deo Avis (Anrin Deo Avis)<br />" +
-			"- Ansirent (Zinc Oxide,Ansirent)<br />" +
-			"- IndianCharizard (IndianCharizard)<br />" +
-			"- Garchompite 7 (Garchompite 7)<br />" +
-			"- parth9 (parth9)<br />" +"
-			"<b>& Leaders</b><br />" +
-			"- jrrkein (jrrkein)<br />" +"
+			"- Ausaudriel (Audy)<br />" +
+			"- Forever (skylight)<br />" +
+			"- Hiroshi Sotomura (Sotomura, Sotomura606)<br />" +
+			"- Lilith (TitanBlade, TwilightBlade)<br />" +
+			"- Livewire<br />" +
+			"- Rukario (PPN)<br />" +
+			"- seeker (abnegation, stranger)<br />" +
+			"- Sheep (Cirnysheep)<br />" +
+			"- shenanigans (razor leaf)<br />" +
+			"- wolf (wofl)<br />" +
+			"- Zeffy<br /><br />" +
 			"<b>@ Moderators</b><br />" +
-			"- roxyjadhav (roxyjadhav)<br />" +
+			"- Altairis (Winry)<br />" +
+			"- Anti (Crazy Uncle Anti)<br />" +
+			"- apocalypseArisen (Megido, omicron, omicronhuh)<br />" +
+			"- Aslan<br />" +
+			"- Castform (orb castform, Powalen)<br />" +
+			"- Christos<br />" +
+			"- Dragon (Aura Blackquill, Captain Syrup, Dragii, Erika Senpai, Iris, Kjelle, Miss Fortune, Mitsuruu, Nabooru, Tharja)<br />" +
+			"- Peitharchia (Adrastia, nymph)<br />" +
+			"- Sanguine (Natalya)<br />" +
+			"- Sector (Milena Kunis)<br />" +
+			"- Sweep<br />" +
+			"- Synerjee (Alto Mare, Autumn Reverie)<br />" +
+			"- Yoshikko (air tangela, gloom)<br /><br />" +
+			"<a href=\"http://www.pokecommunity.com/showthread.php?t=289012#staff\">Click here for more details.</a>"
 		);
 	},
 
