@@ -4,7 +4,7 @@
 // If you really don't know how to do this... Run `node getserver.js URL`.
 // Fill in the URL of the client where `URL` is.
 // For example: `node getserver.js http://example-server.psim.us/`
-exports.server = 'cbc.pokecommunity.com';
+exports.server = 'cosmos';
 exports.port = 8000;
 
 // This is the server id.
@@ -13,12 +13,12 @@ exports.port = 8000;
 // For example, on the Smogon server, it will say somewhere in the URL
 // ~~showdown, meaning that the server id is 'showdown'.
 // If you really don't know how to check this... run the said script above.
-exports.serverid = 'pokecommunity';
+exports.serverid = 'cosmos';
 
 // The nick and password to log in with
 // If no password is required, leave pass empty
-exports.nick = 'PokeCommBot';
-exports.pass = 'filler';
+exports.nick = 'CosmosBot';
+exports.pass = '/I4FHzXNUcKq';
 
 // The rooms that should be joined.
 // Joining Smogon's Showdown's Lobby is not allowed.
@@ -37,7 +37,7 @@ exports.commandcharacter = '.';
 
 // The default rank is the minimum rank that can use a command in a room when
 // no rank is specified in settings.json
-exports.defaultrank = '%';
+exports.defaultrank = '@';
 
 // Whether this file should be watched for changes or not.
 // If you change this option, the server has to be restarted in order for it to
