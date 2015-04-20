@@ -1259,8 +1259,8 @@ var commands = exports.commands = {
 			"- Ansirent<br />" +
 			"- Parth9<br />" +
 			"- Kakhi<br />" +
-			"- Indiancharizard#<br />" +
-			"- Brendon Mcclullum<br />" +
+			"- Charmander(Bulbasaur)<br />" +
+			"- Brendon McCullum(Ryan Tendoeschate)<br />" +
 			"- Dragon Slayer N<br />" +
 			"- Rhytham D Jane<br />" +
 			"- Ash Ketchum Admn<br />" +
@@ -1276,7 +1276,7 @@ var commands = exports.commands = {
 			"- Anrin N<br />" +
 			"- PokeTrainer Roxy<br />" +
 			"- Ankrish<br />" +
-			"- NAtsu Dragneel<br />" +
+			"- Natsu Dragneel<br />" +
 			"- Anrin davis Clair<br />" +
 			"- BBl Ryan <br /><br />" +
 			""
