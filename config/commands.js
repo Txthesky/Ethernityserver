@@ -1254,31 +1254,31 @@ var commands = exports.commands = {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
 			"<b>~ Administrators</b><br />" +
-			"- Anrin Deo Avis <br />" +
-			"- indiancharizard# (Bulbаѕаur)<br />" +
-			"- Ansirent (Zinc Oxide)<br />" +
+			"- Anrin Deo Avis<br />" +
+			"- indiancharizard#<br />" +
+			"- Ansirent<br />" +
 			"- Parth9<br />" +
-			"- Livewire<br />" +
-			"- Rukario (PPN)<br />" +
-			"- seeker (abnegation, stranger)<br />" +
-			"- Sheep (Cirnysheep)<br />" +
-			"- shenanigans (razor leaf)<br />" +
-			"- wolf (wofl)<br />" +
-			"- Zeffy<br /><br />" +
-			"<b>@ Moderators</b><br />" +
+			"- Kakhi<br />" +
+			"- Indiancharizard#<br />" +
+			"- Brendon Mcclullum<br />" +
+			"- Dragon Slayer N<br />" +
+			"- Rhytham D Jane<br />" +
+			"- Ash Ketchum Admn<br />" +
+			"- Lord N is here<br /><br />" +
+			"<b>@ Moderators And Drivers</b><br />" +
 			"- Roxyjadhav<br />" +
 			"- JrrKein<br />" +
 			"- Hydrostatics<br />" +
-			"- Aslan<br />" +
-			"- Castform (orb castform, Powalen)<br />" +
-			"- Christos<br />" +
-			"- Dragon (Aura Blackquill, Captain Syrup, Dragii, Erika Senpai, Iris, Kjelle, Miss Fortune, Mitsuruu, Nabooru, Tharja)<br />" +
-			"- Peitharchia (Adrastia, nymph)<br />" +
-			"- Sanguine (Natalya)<br />" +
-			"- Sector (Milena Kunis)<br />" +
-			"- Sweep<br />" +
-			"- Synerjee (Alto Mare, Autumn Reverie)<br />" +
-			"- Yoshikko (air tangela, gloom)<br /><br />" +
+			"- Unbox therapy<br />" +
+			"- Punkysaur<br />" +
+			"- mudkipguy<br />" +
+			"- Blazing Flames<br />" +
+			"- Anrin N<br />" +
+			"- PokeTrainer Roxy<br />" +
+			"- Ankrish (Milena Kunis)<br />" +
+			"- NAtsu Dragneel<br />" +
+			"- Anrin davis Clair(Alto Mare, Autumn Reverie)<br />" +
+			"- BBl Ryan (air tangela, gloom)<br /><br />" +
 			"<a href=\"http://www.pokecommunity.com/showthread.php?t=289012#staff\">Click here for more details.</a>"
 		);
 	},
