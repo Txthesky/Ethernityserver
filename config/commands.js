@@ -1228,6 +1228,7 @@ var commands = exports.commands = {
 			"\u2605 <b>Players</b> - Members who have won a notable competition (temporary).<br />" +
 			"@ <b>Moderators</b> - Moderate the battle server and provide feedback on staff decisions. They can use most commands.<br />" +
 			"~ <b>Administrators</b> - Manage the battle server. They can use all commands.<br />" +
+			"♪ <b>DragoN Slayer</b> -Much like admin They can do anything.There is only One DragoN Slayer that is Anrin Deo Avis<br />" +
 			"# <b>Room Owners</b> - Manage rooms and can almost totally control them."
 		);
 	},
@@ -1253,32 +1254,32 @@ var commands = exports.commands = {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
 			"<b>~ Administrators</b><br />" +
-			"- Zinc Oxide<br />" +
-			"- Ansirent<br />" +
-			"- Kakhi<br />" +
-			"- Light Levi<br />" +
-			"- Indiancharizard#<br />" +
-			"- Bulbasaur<br />" +
-			"- Astrea<br />" +
-			"- Brendon Mcclullum<br />" +
+			"- Anrin Deo Avis <br />" +
+			"- indiancharizard# (Bulbаѕаur)<br />" +
+			"- Ansirent (Zinc Oxide)<br />" +
 			"- Parth9<br />" +
-			"- Anrin Deo Avis<br />" +
-			"- Anrin Das<br /><br />" +
-			"<b>@ Moderators And Drivers And Voice</b><br />" +
+			"- Livewire<br />" +
+			"- Rukario (PPN)<br />" +
+			"- seeker (abnegation, stranger)<br />" +
+			"- Sheep (Cirnysheep)<br />" +
+			"- shenanigans (razor leaf)<br />" +
+			"- wolf (wofl)<br />" +
+			"- Zeffy<br /><br />" +
+			"<b>@ Moderators</b><br />" +
+			"- Roxyjadhav<br />" +
+			"- JrrKein<br />" +
 			"- Hydrostatics<br />" +
-			"- Jrr Kein<br />" +
-			"- RoxyJadhav<br />" +
-			"- Invincible Swampert<br />" +
-			"- Mudkipguy<br />" +
-			"- Unbox Therapy<br />" +
-			"- Punkysaur<br />" +
-			"- Prateek singh<br />" +
-			"- Jatin Gupta<br />" +
-			"- Blazing Flames<br />" +
-			"- Ritik<br />" +
-			"- Rhytham D Jane<br />" +
-			"- atharva19<br /><br />" +
-			"Not All of them can help you !! Some of them are voices and some are regulars or some are players. Their Ranks are changed all the time" "
+			"- Aslan<br />" +
+			"- Castform (orb castform, Powalen)<br />" +
+			"- Christos<br />" +
+			"- Dragon (Aura Blackquill, Captain Syrup, Dragii, Erika Senpai, Iris, Kjelle, Miss Fortune, Mitsuruu, Nabooru, Tharja)<br />" +
+			"- Peitharchia (Adrastia, nymph)<br />" +
+			"- Sanguine (Natalya)<br />" +
+			"- Sector (Milena Kunis)<br />" +
+			"- Sweep<br />" +
+			"- Synerjee (Alto Mare, Autumn Reverie)<br />" +
+			"- Yoshikko (air tangela, gloom)<br /><br />" +
+			"<a href=\"http://www.pokecommunity.com/showthread.php?t=289012#staff\">Click here for more details.</a>"
 		);
 	},
 
@@ -1826,7 +1827,7 @@ var commands = exports.commands = {
 	roomrequests: function (target, room, user) {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
-			"- <a href=\"http://www.pokecommunity.com/showthread.php?t=342086\">Room Requests & Guidelines</a>"
+			"In Progress</a>"
 		);
 	},
 
