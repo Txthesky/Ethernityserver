@@ -1275,11 +1275,11 @@ var commands = exports.commands = {
 			"- Blazing Flames<br />" +
 			"- Anrin N<br />" +
 			"- PokeTrainer Roxy<br />" +
-			"- Ankrish (Milena Kunis)<br />" +
+			"- Ankrish<br />" +
 			"- NAtsu Dragneel<br />" +
-			"- Anrin davis Clair(Alto Mare, Autumn Reverie)<br />" +
-			"- BBl Ryan (air tangela, gloom)<br /><br />" +
-			"<a href=\"http://www.pokecommunity.com/showthread.php?t=289012#staff\">Click here for more details.</a>"
+			"- Anrin davis Clair<br />" +
+			"- BBl Ryan <br /><br />" +
+			""
 		);
 	},
 
