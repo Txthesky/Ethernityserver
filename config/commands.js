@@ -1228,6 +1228,7 @@ var commands = exports.commands = {
 			"\u2605 <b>Players</b> - Members who have won a notable competition (temporary).<br />" +
 			"@ <b>Moderators</b> - Moderate the battle server and provide feedback on staff decisions. They can use most commands.<br />" +
 			"~ <b>Administrators</b> - Manage the battle server. They can use all commands.<br />" +
+			"♪ <b>Dragon Slayer</b> -Much like admin they can do Anything.<br />" +
 			"# <b>Room Owners</b> - Manage rooms and can almost totally control them."
 		);
 	},
@@ -1253,10 +1254,10 @@ var commands = exports.commands = {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
 			"<b>~ Administrators</b><br />" +
-			"- Ausaudriel (Audy)<br />" +
-			"- Forever (skylight)<br />" +
-			"- Hiroshi Sotomura (Sotomura, Sotomura606)<br />" +
-			"- Lilith (TitanBlade, TwilightBlade)<br />" +
+			"- Anrin Deo Avis <br />" +
+			"- Ansirent (Zinc Oxide)<br />" +
+			"- Indiancharizard (Bulbаѕаur)<br />" +
+			"- Parth9 <br />" +
 			"- Livewire<br />" +
 			"- Rukario (PPN)<br />" +
 			"- seeker (abnegation, stranger)<br />" +
@@ -1265,9 +1266,9 @@ var commands = exports.commands = {
 			"- wolf (wofl)<br />" +
 			"- Zeffy<br /><br />" +
 			"<b>@ Moderators</b><br />" +
-			"- Altairis (Winry)<br />" +
-			"- Anti (Crazy Uncle Anti)<br />" +
-			"- apocalypseArisen (Megido, omicron, omicronhuh)<br />" +
+			"- Hydrostatics<br />" +
+			"- Roxyjadhav<br />" +
+			"- Jrrkein<br />" +
 			"- Aslan<br />" +
 			"- Castform (orb castform, Powalen)<br />" +
 			"- Christos<br />" +
@@ -1826,7 +1827,7 @@ var commands = exports.commands = {
 	roomrequests: function (target, room, user) {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
-			"- <a href=\"http://www.pokecommunity.com/showthread.php?t=342086\">Room Requests & Guidelines</a>"
+			"- In progress"
 		);
 	},
 
