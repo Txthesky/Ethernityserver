@@ -1254,15 +1254,15 @@ var commands = exports.commands = {
 		this.sendReplyBox(
 			"<b>~ Administrator</b><br />" +
 		        "- Alliance Erica<br />" +
-		        "- TX - The Sky<br /><br />" +
+		        "- TX - The Sky<br />" +
 			"<b>& Champion</b><br />" +
 			"- Alliance Titania<br /><br />" +
-			"@ Elite Four<br />" +
-			"- Alliance Ghast<br /><br />" +
+			"<b>@ Elite Four</b><br />" +
+			"- Alliance Ghast<br />" +
 			"<b>% Gym Leaders</b><br />" +
-			"- Alliance Soma<br /><br />" +
-			"Gym Trainers And Respected Members<br />" +
-			"- Silver - Clara <br /><br />" +
+			"- Alliance Soma<br />" +
+			"<b>+ Gym Trainers And Respected Members</b><br />" +
+			"- Silver - Clara <br />" +
 			""
 		);
 	},
@@ -1307,7 +1307,6 @@ var commands = exports.commands = {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
 			"New to competitive pokemon?<br />" +
-			"- <a href=\"http://www.pokecommunity.com/showthread.php?t=332177#resources\">PC's Battling & Team Building Resources</a><br />" +
 			"- <a href=\"https://www.smogon.com/sim/ps_guide\">Beginner's Guide to Pokémon Showdown</a><br />" +
 			"- <a href=\"https://www.smogon.com/dp/articles/intro_comp_pokemon\">An introduction to competitive Pokémon</a><br />" +
 			"- <a href=\"https://www.smogon.com/bw/articles/bw_tiers\">What do 'OU', 'UU', etc mean?</a><br />" +
