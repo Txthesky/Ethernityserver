@@ -1252,32 +1252,17 @@ var commands = exports.commands = {
 	staff: function (target, room, user) {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox(
-			"<b>~ Administrators</b><br />" +
-		        "- Anrin Deo Avis<br />" +
-			"- indiancharizard#<br />" +
-			"- Ansirent<br />" +
-			"- Parth9<br />" +
-			"- Kakhi<br />" +
-			"- Indiancharizard#<br />" +
-			"- Brendon Mcclullum<br />" +
-			"- Dragon Slayer N<br />" +
-			"- Rhytham D Jane<br />" +
-			"- Ash Ketchum Admn<br />" +
-			"- Lord N is here<br /><br />" +
-			"<b>& Leaders,@ Moderators And % Drivers</b><br />" +
-			"- Roxyjadhav<br />" +
-			"- JrrKein<br />" +
-			"- Hydrostatics<br />" +
-			"- Unbox therapy<br />" +
-			"- Punkysaur<br />" +
-			"- mudkipguy<br />" +
-			"- Master Float<br />" +
-			"- Atharva19<br />" +
-			"- PokeTrainer Roxy<br />" +
-			"- Ankrish<br />" +
-			"- 1love 1life<br />" +
-			"- InvincibleSwampert<br />" +
-			"- Tx Bug Mono <br /><br />" +
+			"<b>~ Administrator</b><br />" +
+		        "- Alliance Erica<br />" +
+		        "- TX - The Sky<br /><br />" +
+			"<b>& Champion</b><br />" +
+			"- Alliance Titania<br /><br />" +
+			"@ Elite Four<br />" +
+			"- Alliance Ghast<br /><br />" +
+			"<b>% Gym Leaders</b><br />" +
+			"- Alliance Soma<br /><br />" +
+			"Gym Trainers And Respected Members<br />" +
+			"- Silver - Clara <br /><br />" +
 			""
 		);
 	},
