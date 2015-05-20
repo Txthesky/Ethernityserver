@@ -1256,7 +1256,7 @@ var commands = exports.commands = {
 		        "- Alliance Erica<br />" +
 		        "- TX - The Sky<br />" +
 			"<b>& Champion</b><br />" +
-			"- Alliance Titania<br /><br />" +
+			"- Alliance Titania<br />" +
 			"<b>@ Elite Four</b><br />" +
 			"- Alliance Ghast<br />" +
 			"<b>% Gym Leaders</b><br />" +
